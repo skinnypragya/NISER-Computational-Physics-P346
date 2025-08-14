@@ -15,7 +15,15 @@
 ---
 
 ## 📂 Repository Structure    
-    NISER-Computational-Physics-P346/  
+    NISER-Computational-Physics-P346/
+    ├── Assignment 1
+    │   ├── Plots
+    │   │   ├── Plot of pi values.png
+    │   │   └── exponential decay.png
+    │   └── Pythoncodes
+    │       ├── assignment1_3.py
+    │       ├── assignment1_4.py
+    │       └── pragyalib.py
     ├── Assignment 1a
     │   ├── Plot for question 1
     │   │   ├── plot1.png
@@ -27,9 +35,7 @@
     │   ├── plot for question 2
     │   │   └── PLOT.png
     │   └── pythoncodes
-    │       ├── __pycache__
-    │       │   └── pragyalib.cpython-313.pyc
     │       ├── assignment1_1.py
     │       ├── assignment1_2.py
     │       └── pragyalib.py
-    └── location.py  
+    └── location.py
