@@ -36,7 +36,7 @@ while limit <= 10000:
 
     limit += 1
 
-Plot results
+# Plot results
 plt.scatter(x_val, y_val)
 plt.xlabel("number of iterations")
 plt.ylabel("value of pie")
@@ -48,3 +48,4 @@ print("average value of pi is :", np.mean(y_val))
 # average value of pi is : 3.1446228821518236
 
 #################################################
+
