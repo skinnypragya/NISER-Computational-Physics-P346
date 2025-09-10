@@ -38,4 +38,38 @@
     │       ├── assignment1_1.py
     │       ├── assignment1_2.py
     │       └── pragyalib.py
+    ├── Assignment 2
+    │   ├── assignment_2.py
+    │   ├── matrixA.txt
+    │   ├── matrixB.txt
+    │   ├── matrixC.txt
+    │   ├── matrixD.txt
+    │   └── pragyalib.py
+    ├── Assignment 3
+    │   ├── assignment_3.py
+    │   ├── matrixA.txt
+    │   ├── matrixB.txt
+    │   ├── matrixC.txt
+    │   └── pragyalib.py
+    ├── Assignment 4
+    │   ├── assignment4.py
+    │   ├── matrixA.txt
+    │   ├── matrixB.txt
+    │   └── pragyalib.py
+    ├── Assignment 5
+    │   ├── assignment5.py
+    │   ├── matrixA.txt
+    │   ├── matrixB.txt
+    │   ├── matrixC.txt
+    │   ├── matrixD.txt
+    │   └── pragyalib.py
+    ├── Assignment 6
+    │   ├── assignment6.py
+    │   └── pragyalib.py
+    ├── Assignment 7
+    │   ├── Assignment7.py
+    │   └── pragyalib.py
+    ├── Assignment 8
+    │   ├── assignment8.py
+    │   └── pragyalib.py
     └── location.py
