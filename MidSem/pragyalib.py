@@ -162,7 +162,7 @@ class LU_decomp:
             X = self.forback([row[:] for row in A], B)  # copy A to avoid in-place LU
             # Store the result in the corresponding column of the inverse
             for row in range(n):
-                inverse_matrix[row][col] = X[row][0]
+                inverse_matrix[row][col] = float(f"{X[row][0]:.3f}") # round to three decimal places
         return inverse_matrix
     def det(self, A):
         D = self.storeLU(A)
@@ -445,3 +445,4 @@ class integration:
             x = Interval[0] + (Interval[1] - Interval[0]) * L[i] # Scaling numbers in range
             sum += function(x)
         return sum*(Interval[1] - Interval[0])/parts
+
